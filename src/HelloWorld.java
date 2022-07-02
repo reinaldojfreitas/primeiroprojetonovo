@@ -8,5 +8,6 @@ public class HelloWorld {
 		// Imprime uma linha
 		System.out.println("Hello World"); // Imprime linha
 		System.out.println("-----------"); 
+		System.out.println("-----------"); 
 	}
 }
